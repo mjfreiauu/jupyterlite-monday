@@ -6,3 +6,7 @@ dependencies:
   - ipycanvas
   - matplotlib
   - sympy
+  - scipy
+  - pandas
+  - requests
+  - pillow
